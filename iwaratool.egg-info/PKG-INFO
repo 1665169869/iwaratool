@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: iwaratool
+Version: 0.1.0
+Summary: 批量获取iwara的内容
+Home-page: http://baiyu.fun
+Author: 白色羽毛
+Author-email: 1665169869@qq.com
+License: LGPL-3.0 License
+Description: # IwaraTool
+        
+        目前版本：**0.1**
+        
+        还没有详细的介绍，因为还在测试阶段 希望大家可以和我一起维护
+        
+        # 开源协议
+        [LGPL-3.0](/LICENSE)
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries

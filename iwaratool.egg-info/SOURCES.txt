@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+iwaratool/__init__.py
+iwaratool/iwara.py
+iwaratool.egg-info/PKG-INFO
+iwaratool.egg-info/SOURCES.txt
+iwaratool.egg-info/dependency_links.txt
+iwaratool.egg-info/requires.txt
+iwaratool.egg-info/top_level.txt
