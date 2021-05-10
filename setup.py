@@ -5,7 +5,7 @@ with open("README.md", "r",encoding='utf-8') as f:
   f.close()
   
 setup(name='iwaratool',  # 包名
-      version='0.1.0',  # 版本号
+      version='0.1.1',  # 版本号
       description='批量获取iwara的内容',
       long_description=long_description,
       author='白色羽毛',
